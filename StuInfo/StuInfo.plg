@@ -1,0 +1,36 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: StuInfo - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating command line "rc.exe /l 0x804 /fo"Debug/StuInfo.res" /d "_DEBUG" /d "_AFXDLL" "C:\Users\1\Desktop\≥Ã–Ú…Ëº∆\StuInfo\StuInfo.rc"" 
+Creating temporary file "C:\Users\1\AppData\Local\Temp\RSP57C8.tmp" with contents
+[
+odbccp32.lib /nologo /subsystem:windows /incremental:yes /pdb:"Debug/StuInfo.pdb" /debug /machine:I386 /out:"Debug/StuInfo.exe" /pdbtype:sept /libpath:"C:\Program Files\Microsoft Visual Studio\VC98\Lib\odbccp32.lib" 
+".\Debug\AvgScoreDlg.obj"
+".\Debug\CourseDlg.obj"
+".\Debug\CourseSet.obj"
+".\Debug\ScoreDlg.obj"
+".\Debug\ScoreSet.obj"
+".\Debug\StdAfx.obj"
+".\Debug\StudentDlg.obj"
+".\Debug\StudentSet.obj"
+".\Debug\StuInfo.obj"
+".\Debug\StuInfoDlg.obj"
+".\Debug\StuInfo.res"
+]
+Creating command line "link.exe @C:\Users\1\AppData\Local\Temp\RSP57C8.tmp"
+<h3>Output Window</h3>
+Compiling resources...
+Linking...
+
+
+
+<h3>Results</h3>
+StuInfo.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
